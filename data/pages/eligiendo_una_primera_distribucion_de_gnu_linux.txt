@@ -16,4 +16,4 @@ Diferentes distribuciones aputan a diferentes tipos de usuarios y diferente tipo
 
 ====== Enlaces de interés ======
 
-  * [[http://distrowatch.com/index.php?language=ES]]
+  * [[http://distrowatch.com/index.php?language=ES|Distrowatch]]
