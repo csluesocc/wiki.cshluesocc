@@ -1,0 +1,22 @@
+====== Página Principal ======
+
+Bienvenido a la wiki de la comunidad de [[http://cshluesocc.org/|Software Libre UES OCC]].
+
+El objetivo de esta wiki es el de proveer información que sea de utilidad a personas interesadas en el Software Libre por medio de artículos y enlaces a fuentes de documentación importante.
+
+----
+
+====== Empezando con GNU/Linux ======
+
+----
+
+====== Nuestra comunidad y comunidades amigas ======
+
+----
+
+====== Ayudar ======
+
+La wiki es libre de editar para usuarios registrados, si tienes dudas o nunca has editado una wiki puedes leer los siguientes artículos sobre algunos lineamientos a seguir.
+
+[[https://www.dokuwiki.org/start?id=es:manual]]
+[[https://www.dokuwiki.org/start?id=es:wiki:syntax]]
