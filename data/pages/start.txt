@@ -8,6 +8,8 @@ El objetivo de esta wiki es el de proveer información que sea de utilidad a per
 
 ====== Empezando con GNU/Linux ======
 
+  * [[Eligiendo una primera distribución de GNU/Linux]]
+
 ----
 
 ====== Nuestra comunidad y comunidades amigas ======
