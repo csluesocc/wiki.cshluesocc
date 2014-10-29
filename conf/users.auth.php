@@ -9,4 +9,4 @@
 # login:passwordhash:Real Name:email:groups,comma,seperated
 
 
-admin:$1$cxhCquui$VCfrx.4cZmfroasp84PcC1:Oswaldo Ortiz:oswaldo.ortiz.sv@gmail.com:admin,user
+admin:$1$HKewjkiF$QFlzWygqzugj48/cQwe6i0:Oswaldo Ortiz:oswaldo.ortiz.sv@gmail.com:admin,user

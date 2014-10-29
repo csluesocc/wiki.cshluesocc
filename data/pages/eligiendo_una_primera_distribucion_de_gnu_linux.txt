@@ -14,6 +14,8 @@ Diferentes distribuciones aputan a diferentes tipos de usuarios y diferente tipo
 
 {{:mint.png?nolink |}} Mint es una distribución basada en Ubuntu que apunta ser fácil de usar para usuarios nuevos, al igual que Ubuntu, viene con software necesario preinstalado.
 
+\\
+
 ====== Enlaces de interés ======
 
   * [[http://distrowatch.com/index.php?language=ES|Distrowatch]]
