@@ -1,8 +1,6 @@
-Wiki de la Comunidad de Software y Hardware Libre UESOcc
+[Wiki de la Comunidad de Software y Hardware Libre UESOcc](http://wiki.cshluesocc.org)
 =====================
 Repositorio con el código fuente para la wiki de la comunidad hecha con Dokuwiki .
-
-* Alguna plantilla para el wiki (no es indispensable) - [Descargar alguno aquí](http://www.dokuwiki.org/template)
 
 ## ¿Qué es Dokuwiki?
 
@@ -50,3 +48,8 @@ Una vez finalizada la configuración, removemos el archivo de instalación: `$ r
 
 * [Instalar plantillas](https://www.dokuwiki.org/template)
 * [Instalar plugins](https://www.dokuwiki.org/plugin_installation_instructions)
+* [Manual](https://www.dokuwiki.org/start?id=es:manual)
+* [Sintaxis de un artículo](https://www.dokuwiki.org/start?id=es:wiki:syntax)
+
+El contenido de este wiki excepto donde se indique lo contrario, esta bajo la siguiente licencia:
+![[CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by-sa_petit.png)
