@@ -4,15 +4,16 @@ Una de las primeras preguntas que se hace alguien que tiene probar GNU/Linux en 
 
 Diferentes distribuciones aputan a diferentes tipos de usuarios y diferente tipo de uso, veremos las distribuciones que son más populares para principiantes en GNU/Linux.
 
-===== Ubuntu =====
-
-{{:ubuntu.png?nolink |}} Es la distribución más popular y con la comunidad más grande, viene con todo el software básico que podrías necesitar como un navegador web, una suite de office y un reproductor multimedia, usuarios buscando un entorno fácil de usar se les recomiendo empezar probar Ubuntu.
-
-\\
 
 ===== Linux Mint =====
 
 {{:mint.png?nolink |}} Mint es una distribución basada en Ubuntu que apunta ser fácil de usar para usuarios nuevos, al igual que Ubuntu, viene con software necesario preinstalado.
+
+\\
+
+===== Debian =====
+
+{{:debian.png?nolink |}} Debian es una distribución muy estable por lo que se recomienda utilizarla para empezar en GNU/Linux, si utilizas Debian empieza primero con una computadora que no tenga el último hardware para no tener problemas.
 
 \\
 

@@ -1,6 +1,6 @@
 ====== Página Principal ======
 
-Bienvenido a la wiki de la [[http://cshluesocc.org/|Comunidad de usuarios de Software y Hardware Libre UESOcc]].
+Bienvenido a la wiki de la [[http://cshluesocc.org/|Comunidad de Software y Hardware Libre UESOcc]].
 
 El objetivo de esta wiki es el de proveer información que sea de utilidad a personas interesadas en el Software Libre por medio de artículos y enlaces a fuentes de documentación importante.
 
@@ -12,7 +12,7 @@ El objetivo de esta wiki es el de proveer información que sea de utilidad a per
 
 ----
 
-====== Nuestra comunidad y comunidades amigas ======
+====== Nuestra comunidad y Comunidades Amigas ======
 
 ----
 

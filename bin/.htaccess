@@ -1,2 +1,4 @@
+## no access to the bin directory
 order allow,deny
 deny from all
+
