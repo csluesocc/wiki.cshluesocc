@@ -1,0 +1,5 @@
+data/attic/*
+data/cache/*
+*.idx
+*.xhtml
+*.i
